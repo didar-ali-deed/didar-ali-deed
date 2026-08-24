@@ -52,8 +52,8 @@ _See [pinned repos](https://github.com/didar-ali-deed?tab=repositories) below fo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=didar-ali-deed&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didar-ali-deed&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-omega-gilt-64.vercel.app/api?username=didar-ali-deed&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-omega-gilt-64.vercel.app/api/top-langs/?username=didar-ali-deed&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
