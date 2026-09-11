@@ -1,68 +1,73 @@
 <h1 align="center">Hi, I'm Didar Ali 👋</h1>
-<h3 align="center">AI/ML Engineer building production systems in NLP, Computer Vision, and Identity Verification</h3>
+<p align="center"><strong>AI/ML Engineer · NLP, Speech & Computer Vision</strong></p>
 
 <p align="center">
-  <a href="https://didar-portfolio-web.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/didar-ali-deed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://didar-portfolio-web.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/didar-ali-deed"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
+I build model pipelines, inference APIs, and web applications that make machine learning usable. My work spans document verification, speech emotion recognition, and sentiment analysis.
 
-### 👋 About Me
+Based in **Islamabad, Pakistan**, with a **BS in Computer Systems Engineering from UET Peshawar**. Open to **freelance projects and full-time AI/ML Engineering roles**.
 
-I'm an AI/ML Engineer based in Islamabad, Pakistan, with a BS in Computer Systems Engineering from UET Peshawar. I like taking machine learning models past the notebook stage — into APIs, pipelines, and apps people can actually use.
+## 📌 Featured Projects
 
-- 🔭 Currently building end-to-end ML systems spanning NLP, speech, and computer vision
-- 🔬 Published researcher — Transformer-based Speech Emotion Recognition
-- 🌱 Exploring RAG architectures and vector databases
-- 📜 Google Data Analytics & Google Cybersecurity certified
-- 💬 Ask me about NLP, model deployment, or turning a research idea into a working product
-- 💼 Open to freelance and full-time AI/ML Engineering roles
+### 🪪 [Identity Verification System](https://github.com/didar-ali-deed/Identity-Verification-System)
 
----
+A document and selfie verification application with a **10-stage pipeline** for OCR, field consistency checks, liveness checks, and biometric matching. An admin dashboard exposes stage results, similarity scores, and flagged applications for review.
 
-### 🛠️ Tech I Work With
+**Engineering focus:** Background pipeline execution with Celery, PostgreSQL persistence, and Docker Compose setup.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Stack:** Python · FastAPI · OpenCV · EasyOCR · DeepFace · PostgreSQL · Redis · React · TypeScript
 
----
+[Explore the pipeline and setup →](https://github.com/didar-ali-deed/Identity-Verification-System#10-stage-verification-pipeline)
 
-### 📌 A Few Things I've Built
+### 🎙️ [Speech Emotion Recognition](https://github.com/didar-ali-deed/Vocal-Sentiment-Transformer-Based-Speech-Emotion-Recognition)
 
-- 🪪 **[Identity-Verification-System](https://github.com/didar-ali-deed/Identity-Verification-System)** — a full KYC/IDV pipeline with OCR, liveness detection, and biometric matching, wrapped in a FastAPI + React app
-- 💬 **[sentiment-analysis-bert-fastapi-imdb](https://github.com/didar-ali-deed/sentiment-analysis-bert-fastapi-imdb)** — fine-tuned BERT for movie review sentiment, served through a FastAPI + React app
-- 🎙️ **[A-hybrid-Approach-To-SER](https://github.com/didar-ali-deed/A-hybrid-Approach-To-SER)** — speech emotion recognition using Wav2Vec2 across four public datasets
-- 🙂 **[emotion-detection-lstm](https://github.com/didar-ali-deed/emotion-detection-lstm)** — text emotion classification with a Bidirectional LSTM
-- ⚡ **[sentiment-analysis-app](https://github.com/didar-ali-deed/sentiment-analysis-app)** — a lightweight sentiment API running on ONNX Runtime instead of PyTorch
-- 🏥 **[health-ai-super-app](https://github.com/didar-ali-deed/health-ai-super-app)** — a Streamlit app predicting Diabetes, Parkinson's, and Pneumonia
+An audio classification project combining **Wav2Vec2 features and a Transformer classifier** on the RAVDESS and TESS datasets. Includes preprocessing, training, evaluation, and a Flask app for uploading audio and viewing emotion probabilities.
 
-_See [pinned repos](https://github.com/didar-ali-deed?tab=repositories) below for the full list._
+**Engineering focus:** Connecting the research workflow to interactive inference, with waveform visualization and saved predictions.
 
----
+**Stack:** Python · PyTorch · Hugging Face Transformers · Flask
 
-### 📊 GitHub Stats
+[Explore the code →](https://github.com/didar-ali-deed/Vocal-Sentiment-Transformer-Based-Speech-Emotion-Recognition) · [Read my speech emotion recognition paper →](https://doi.org/10.21015/vtse.v13i3.2174)
+
+### ⚡ [ONNX Sentiment Analysis](https://github.com/didar-ali-deed/sentiment-analysis-app)
+
+A sentiment analysis web app using **DistilBERT through ONNX Runtime**, with positive/negative predictions, confidence scores, and a JSON API at `/api/predict`.
+
+**Engineering focus:** Serving inference without a PyTorch runtime dependency, with a Flask interface and Gunicorn configuration for Render deployment.
+
+**Stack:** Python · ONNX Runtime · Hugging Face · Flask · Gunicorn
+
+[View the interface and API example →](https://github.com/didar-ali-deed/sentiment-analysis-app#screenshots)
+
+[Browse all my repositories →](https://github.com/didar-ali-deed?tab=repositories)
+
+## 📄 Publication
+
+**[Vocal Sentiments: Transformer Based Speech Emotion Recognition](https://doi.org/10.21015/vtse.v13i3.2174)**  
+Didar Ali, Muhammad Shahab, Yasir Saleem Afridi, and Rehmat Ullah  
+*VFAST Transactions on Software Engineering*, 13(3), 187–197, 2025.
+
+## 🛠️ Tools I Work With
+
+- **ML & inference:** Python, PyTorch, TensorFlow, Hugging Face Transformers, ONNX Runtime
+- **APIs & data:** FastAPI, Flask, PostgreSQL
+- **Applications & deployment:** React, TypeScript, Docker
+
+Currently exploring **RAG architectures and vector databases**.  
+Certified in **Google Data Analytics** and **Google Cybersecurity**.
+
+<details>
+<summary>📊 GitHub activity</summary>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-didar-ali.vercel.app/api?username=didar-ali-deed&show_icons=true&theme=default&hide_border=true&cache_bust=2" />
-  <img height="165" src="https://github-readme-stats-didar-ali.vercel.app/api/top-langs/?username=didar-ali-deed&layout=compact&hide_border=true&cache_bust=2" />
+  <img alt="Didar Ali's GitHub statistics" height="165" src="https://github-readme-stats-didar-ali.vercel.app/api?username=didar-ali-deed&amp;show_icons=true&amp;theme=default&amp;hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=didar-ali-deed&hide_border=true" />
-</p>
+</details>
 
----
+## 📫 Let's Connect
 
-### 📫 Let's Connect
-
-- Portfolio: [didar-portfolio-web.vercel.app](https://didar-portfolio-web.vercel.app/)
-- LinkedIn: [linkedin.com/in/didar-ali-deed](https://www.linkedin.com/in/didar-ali-deed)
+Have an ML project or an engineering role in mind? Reach me on [LinkedIn](https://www.linkedin.com/in/didar-ali-deed), or explore my work on my [portfolio](https://didar-portfolio-web.vercel.app/).
