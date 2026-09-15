@@ -28,6 +28,35 @@ Currently open to opportunities and relocation from Rawalpindi, Pakistan.
 | SQLite, Power BI, Matplotlib | Transformers, NLP, RAG | Linux, Streamlit |
 | Data cleaning and validation | Computer vision, OCR, audio ML | Dashboards and model workflows |
 
+## Tech stack
+
+<div align="center">
+
+### Languages & data
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,sqlite" alt="Python, C, C++, Bash, and SQLite" />
+
+<br />
+
+<img src="https://img.shields.io/badge/SQL-0f766e?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Pandas-0f766e?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-0f766e?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Power%20BI-0f766e?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+<img src="https://img.shields.io/badge/Data%20Analytics-0f766e?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Analytics" />
+
+### Machine learning & delivery
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,huggingface,fastapi,docker,git,linux" alt="PyTorch, TensorFlow, Scikit-learn, Hugging Face, FastAPI, Docker, Git, and Linux" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Computer%20Vision-102039?style=for-the-badge&logo=opencv&logoColor=5eead4" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/NLP-102039?style=for-the-badge&logo=huggingface&logoColor=5eead4" alt="Natural Language Processing" />
+<img src="https://img.shields.io/badge/OCR-102039?style=for-the-badge&logo=googlelens&logoColor=5eead4" alt="OCR" />
+<img src="https://img.shields.io/badge/Streamlit-102039?style=for-the-badge&logo=streamlit&logoColor=5eead4" alt="Streamlit" />
+
+</div>
+
 ## Experience
 
 ### AI Engineer I · Xflow Research Inc.
