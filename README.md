@@ -83,6 +83,26 @@ A Streamlit health diagnostics platform with secure login, prediction history, a
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=didar-ali-deed&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=68778a&bg_color=f7f9fc" alt="Didar Ali's GitHub statistics" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didar-ali-deed&layout=compact&hide_border=true&title_color=0f766e&text_color=68778a&bg_color=f7f9fc" alt="Didar Ali's top languages" />
 
+<br />
+
+<img src="https://streak-stats.demolab.com?user=didar-ali-deed&theme=default&hide_border=true&background=f7f9fc&ring=0f766e&fire=0f766e&currStreakLabel=0f766e&sideLabels=68778a" alt="Didar Ali's GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=didar-ali-deed&bg_color=f7f9fc&color=68778a&line=0f766e&point=0f766e&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Didar Ali's contribution activity graph" />
+
+</div>
+
+## Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didar-ali-deed/didar-ali-deed/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didar-ali-deed/didar-ali-deed/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/didar-ali-deed/didar-ali-deed/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ## Let’s connect
