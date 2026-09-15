@@ -57,16 +57,6 @@ Currently open to opportunities and relocation from Rawalpindi, Pakistan.
 
 </div>
 
-## Experience
-
-### AI Engineer I · Xflow Research Inc.
-
-**Islamabad · February 2026 – May 2026**
-
-- Built OCR, computer-vision, and identity-verification pipelines.
-- Worked with NFC e-passport chip reading and document intelligence workflows.
-- Tested and validated multi-stage AI pipelines for production use cases.
-
 ## Selected work
 
 ### NYC Taxi Pulse · Data Analytics & Business Intelligence
