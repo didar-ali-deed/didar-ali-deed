@@ -1,142 +1,96 @@
 <div align="center">
 
-# Hi, I'm Didar Ali
+# Didar Ali
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;GenAI+%26+NLP+Developer;Computer+Vision+Engineer" alt="Typing introduction" />
+### Data Analyst · AI/ML Engineer
 
-<p>
-  AI/ML Engineer building production-ready systems across NLP, GenAI, computer vision, and intelligent backend platforms.<br />
-  I enjoy turning research ideas into reliable, scalable applications that solve real-world problems.
-</p>
+Turning raw data into decisions and models into useful tools.
 
 <p>
-  <a href="https://www.linkedin.com/in/didar-ali-deed">
-    <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:didarali1129@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://didar-portfolio-web.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://didar-ali.vercel.app"><strong>Portfolio</strong></a> ·
+  <a href="https://www.linkedin.com/in/didar-ali-deed"><strong>LinkedIn</strong></a> ·
+  <a href="mailto:didarali1129@gmail.com"><strong>Email</strong></a>
 </p>
 
 </div>
 
 ## About
 
-Previously an AI Engineer I at Xflow Research Inc. from February to May 2026, where I developed KYC identity verification systems involving:
+I am a Computer Systems Engineering graduate working across data analysis, machine learning, computer vision, OCR, and production AI workflows. I enjoy the space between a messy dataset and a useful product: asking the right question, building a dependable pipeline, and communicating the result clearly.
 
-- Face recognition and anti-spoofing
-- OCR pipelines for identity cards and passports
-- MRZ extraction and validation
-- NFC e-passport verification
-- Multi-stage backend pipelines feeding a decision engine
+Currently open to opportunities and relocation from Rawalpindi, Pakistan.
 
-My interests include applied deep learning, retrieval-augmented generation, transformer-based NLP, speech intelligence, and computer vision.
+## What I work on
 
-## Technical Skills
+| Data analytics | AI / ML engineering | Delivery |
+|---|---|---|
+| Python, SQL, Pandas, NumPy | PyTorch, TensorFlow, Scikit-learn | FastAPI, Docker, Git |
+| SQLite, Power BI, Matplotlib | Transformers, NLP, RAG | Linux, Streamlit |
+| Data cleaning and validation | Computer vision, OCR, audio ML | Dashboards and model workflows |
 
-<div align="center">
+## Experience
 
-<h4>Languages</h4>
+### AI Engineer I · Xflow Research Inc.
 
-<img src="https://img.shields.io/badge/Python-58A6FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-58A6FF?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-58A6FF?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/SQL-58A6FF?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Bash-58A6FF?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Java-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+**Islamabad · February 2026 – May 2026**
 
-<h4>Machine Learning & Deep Learning</h4>
+- Built OCR, computer-vision, and identity-verification pipelines.
+- Worked with NFC e-passport chip reading and document intelligence workflows.
+- Tested and validated multi-stage AI pipelines for production use cases.
 
-<img src="https://img.shields.io/badge/PyTorch-58A6FF?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-58A6FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Keras-58A6FF?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/Scikit--learn-58A6FF?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+## Selected work
 
-<h4>NLP & GenAI</h4>
+### NYC Taxi Pulse · Data Analytics & Business Intelligence
 
-<img src="https://img.shields.io/badge/Hugging%20Face-58A6FF?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LangChain-58A6FF?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+An end-to-end analytics project using public NYC TLC Yellow Taxi records to produce demand, revenue, zone, and traffic insights.
 
-<h4>Backend & Tools</h4>
+- **Stack:** Python, SQL, SQLite, Power BI
+- **Output:** 1,000,000 cleaned trips, analytical SQL, Python visuals, and a three-page Power BI report
+- [View repository](https://github.com/didar-ali-deed/nyc-taxi-pulse)
 
-<img src="https://img.shields.io/badge/FastAPI-58A6FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Docker-58A6FF?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Streamlit-58A6FF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Git-58A6FF?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Linux-58A6FF?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-<img src="https://img.shields.io/badge/SQLite-58A6FF?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+### Speech Emotion Recognition · Research & Audio ML
 
-<h4>Data & Visualization</h4>
+A Wav2Vec2 transformer pipeline for recognizing emotional signals from speech, achieving approximately 79% accuracy.
 
-<img src="https://img.shields.io/badge/Pandas-58A6FF?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-58A6FF?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Matplotlib-58A6FF?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Power%20BI-58A6FF?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+- **Stack:** Wav2Vec2, Transformers, signal processing, Python
+- **Publication:** *Vocal Sentiments: Transformer-Based Speech Emotion Recognition*, VFAST Transactions on Software Engineering, 2025
+- [View repository](https://github.com/didar-ali-deed/Vocal-Sentiment-Transformer-Based-Speech-Emotion-Recognition)
 
-</div>
+### AI Health Super App · Applied Machine Learning
 
-## Featured Projects
+A Streamlit health diagnostics platform with secure login, prediction history, and model pathways for diabetes, Parkinson’s disease, and pneumonia.
 
-| Project | Description | Technologies | Repository | Demo |
-|---|---|---|---|---|
-| [Speech Emotion Recognition](https://github.com/didar-ali-deed/Vocal-Sentiments-Transformer-Based-SER) | Transformer-based speech emotion recognition using Wav2Vec2, achieving 79% accuracy. | Python, PyTorch, Wav2Vec2, Transformers | [View repo](https://github.com/didar-ali-deed/Vocal-Sentiments-Transformer-Based-SER) | — |
-| [BERT Sentiment Analysis](https://github.com/didar-ali-deed/sentiment-analysis-bert-fastapi-imdb) | Full-stack sentiment analysis application with a FastAPI backend and React frontend. | Python, BERT, FastAPI, React | [View repo](https://github.com/didar-ali-deed/sentiment-analysis-bert-fastapi-imdb) | — |
-| [AI Health Super App](https://github.com/didar-ali-deed/health-ai-super-app) | Diagnostic platform combining CNN, DNN, and XGBoost models for multiple health prediction tasks. | Python, TensorFlow, Scikit-learn, XGBoost, Streamlit | [View repo](https://github.com/didar-ali-deed/health-ai-super-app) | — |
-| Multi-Source Job Scraper | Automated job discovery and collection across multiple sources using browser automation. | Python, Playwright, SQLite | [Browse repositories](https://github.com/didar-ali-deed?tab=repositories) | — |
+- **Stack:** XGBoost, TensorFlow/Keras, Librosa, Streamlit, SQLite
+- **Reported results:** approximately 88% diabetes, 91% Parkinson’s, and 92% pneumonia accuracy
+- [View repository](https://github.com/didar-ali-deed/health-ai-super-app) · [Live demo](https://health-ai-super-app-deed.streamlit.app)
 
-## Publication
+### Other work
 
-**[Vocal Sentiments: Transformer-Based Speech Emotion Recognition](https://doi.org/10.21015/vtse.v13i3.2174)**<br />
-VFAST Transactions on Software Engineering, 2025.
+- **Identity Verification & Document Intelligence:** OCR, computer vision, NFC, and data-validation workflow.
+- **BERT Sentiment Analysis:** fine-tuned BERT with a FastAPI backend and React frontend.
+- **Multi-Source Job Data Scraper:** Python/Playwright collection pipeline with deduplication logic.
 
-## Certifications
+## Education & certifications
 
+- **B.Sc. Computer Systems Engineering**, UET Peshawar · 2021–2025 · CGPA 3.01 / 4.00
 - Google Data Analytics Professional Certificate
 - Google Cybersecurity Professional Certificate
 
-## GitHub Statistics
+## GitHub activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=didar-ali-deed&show_icons=true&include_all_commits=true&count_private=true&show_rank=true&rank_icon=github&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Didar's GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didar-ali-deed&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top programming languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=didar-ali-deed&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" alt="GitHub contribution streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=didar-ali-deed&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=didar-ali-deed&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=68778a&bg_color=f7f9fc" alt="Didar Ali's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didar-ali-deed&layout=compact&hide_border=true&title_color=0f766e&text_color=68778a&bg_color=f7f9fc" alt="Didar Ali's top languages" />
 
 </div>
 
-## Contribution Snake
+## Let’s connect
+
+If you are working on a data problem, applied ML product, research workflow, or intelligent automation system, feel free to reach out.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didar-ali-deed/didar-ali-deed/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didar-ali-deed/didar-ali-deed/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/didar-ali-deed/didar-ali-deed/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-## Let's Connect
-
-If you're working on applied AI, intelligent automation, NLP, or computer vision, feel free to connect.
-
-<div align="center">
-
-<a href="https://github.com/didar-ali-deed">GitHub</a> ·
-<a href="https://www.linkedin.com/in/didar-ali-deed">LinkedIn</a> ·
-<a href="https://didar-portfolio-web.vercel.app">Portfolio</a> ·
-<a href="mailto:didarali1129@gmail.com">Email</a>
+[Portfolio](https://didar-ali.vercel.app) · [LinkedIn](https://www.linkedin.com/in/didar-ali-deed) · [GitHub](https://github.com/didar-ali-deed) · [Email](mailto:didarali1129@gmail.com)
 
 </div>
