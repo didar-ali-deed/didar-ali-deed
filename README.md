@@ -1,12 +1,12 @@
-Hi, I'm Didar Ali 👋
+# Hi, I'm Didar Ali 👋
 
 <div align="center">
 
-AI/ML Engineer | Data Analyst | Computer Systems Engineer
+### AI/ML Engineer | Data Analyst | Computer Systems Engineer
 
-Building intelligent systems, scalable data pipelines, and practical machine learning applications.
+**Building intelligent systems, scalable data pipelines, and practical machine learning applications.**
 
-AI & Deep Learning • Data Science & Analytics • Computer Vision & NLP • Linux & Systems Programming
+**AI & Deep Learning • Data Science & Analytics • Computer Vision & NLP • Linux & Systems Programming**
 
 <p>
   <a href="https://didar-ali.vercel.app"><strong>🌐 Portfolio</strong></a> •
@@ -19,7 +19,9 @@ AI & Deep Learning • Data Science & Analytics • Computer Vision & NLP • Li
 
 </div>
 
-👨‍💻 About Me
+---
+
+## 👨‍💻 About Me
 
 I am a Computer Systems Engineering graduate from UET Peshawar, based in Rawalpindi, Pakistan, with a strong focus on Artificial Intelligence, Machine Learning, Data Analytics, and Computer Systems Engineering.
 
@@ -27,29 +29,29 @@ I design and build end-to-end technical solutions — from collecting and proces
 
 My work combines applied machine learning with a strong foundation in programming, operating systems, database management, and software engineering.
 
-Areas of focus:
+**Areas of focus:**
 
-AI & Deep Learning: Transformers, NLP, computer vision, speech processing, biometric verification, and model evaluation.
+- **AI & Deep Learning**: Transformers, NLP, computer vision, speech processing, biometric verification, and model evaluation.
 
-Data Science & Business Intelligence: Data engineering, SQL, exploratory analysis, statistical analysis, predictive modeling, and Power BI.
+- **Data Science & Business Intelligence**: Data engineering, SQL, exploratory analysis, statistical analysis, predictive modeling, and Power BI.
 
-Computer Systems: C/C++, Linux internals, process monitoring, file systems, and systems programming.
+- **Computer Systems**: C/C++, Linux internals, process monitoring, file systems, and systems programming.
 
-AI Software Engineering: Python, FastAPI, REST APIs, Docker, databases, and intelligent application development.
+- **AI Software Engineering**: Python, FastAPI, REST APIs, Docker, databases, and intelligent application development.
 
 I also co-authored a peer-reviewed research paper on Transformer-based Speech Emotion Recognition.
 
 📍 Rawalpindi, Pakistan | 🌍 Open to remote, relocation, and international opportunities
 
-🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 <div align="center">
 
-Programming Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,ts" alt="Programming languages" />
 
-Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ML frameworks" />
 
@@ -60,7 +62,7 @@ Artificial Intelligence & Machine Learning
 
 
 
-Data Analytics & Business Intelligence
+### Data Analytics & Business Intelligence
 
 
 
@@ -70,262 +72,256 @@ Data Analytics & Business Intelligence
 
 
 
-Backend, Databases & Infrastructure
+### Backend, Databases & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,mysql,sqlite,linux,git,github,react,nodejs" alt="Backend and systems technologies" />
 
-Development Tools
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,postman,vercel" alt="Development tools" />
 
 </div>
 
-🚀 Featured Projects
+---
 
-🧠 Artificial Intelligence & Machine Learning
+## 🚀 Featured Projects
 
-1. Identity Verification System — Document AI, Biometrics & Explainable Decisions
+### 🧠 Artificial Intelligence & Machine Learning
+
+#### Identity Verification System — Document AI, Biometrics & Explainable Decisions
 
 An AI-assisted identity verification platform combining document OCR, face verification, passive liveness detection, rule-based screening, and auditable decision workflows.
 
-Highlights:
+**Highlights:**
 
-Multi-stage identity verification pipeline.
+- Multi-stage identity verification pipeline.
 
-OCR-based document information extraction.
+- OCR-based document information extraction.
 
-Biometric matching and liveness evidence.
+- Biometric matching and liveness evidence.
 
-Approval, rejection, and manual-review workflows.
+- Approval, rejection, and manual-review workflows.
 
-Backend processing, persistent evidence, and reviewer interfaces.
+- Backend processing, persistent evidence, and reviewer interfaces.
 
-Automated backend and frontend testing.
+- Automated backend and frontend testing.
 
-Stack: Python, OCR, Computer Vision, FastAPI, React, PostgreSQL, Docker
+**Stack:** Python, OCR, Computer Vision, FastAPI, React, PostgreSQL, Docker
 
-Explore Repository →
+[**Explore Repository →**](https://github.com/didar-ali-deed/Identity-Verification-System)
 
-2. BERT Sentiment Analysis — Transformer NLP & API Deployment
+#### BERT Sentiment Analysis — Transformer NLP & API Deployment
 
 An end-to-end sentiment classification system built by fine-tuning BERT on IMDb movie reviews.
 
-Highlights:
+**Highlights:**
 
-Fine-tuned bert-base-uncased using PyTorch and Hugging Face Transformers.
+- Fine-tuned bert-base-uncased using PyTorch and Hugging Face Transformers.
 
-Text preprocessing, tokenization, training, and evaluation.
+- Text preprocessing, tokenization, training, and evaluation.
 
-93.66% reported test accuracy and F1-score.
+- 93.66% reported test accuracy and F1-score.
 
-FastAPI inference backend.
+- FastAPI inference backend.
 
-React frontend with prediction confidence visualizations.
+- React frontend with prediction confidence visualizations.
 
-Stack: Python, PyTorch, Transformers, FastAPI, React
+**Stack:** Python, PyTorch, Transformers, FastAPI, React
 
-Explore Repository →
+[**Explore Repository →**](https://github.com/didar-ali-deed/sentiment-analysis-bert-fastapi-imdb)
 
-3. Vocal Sentiments — Transformer-Based Speech Emotion Recognition
+#### Vocal Sentiments — Transformer-Based Speech Emotion Recognition
 
 A research project investigating speech emotion recognition using pretrained Wav2Vec2 speech representations and neural-network classification.
 
-Highlights:
+**Highlights:**
 
-Audio preprocessing and feature extraction.
+- Audio preprocessing and feature extraction.
 
-Eight-class emotion recognition.
+- Eight-class emotion recognition.
 
-Wav2Vec2 speech representations and PyTorch classification.
+- Wav2Vec2 speech representations and PyTorch classification.
 
-79.01% accuracy reported in the published study.
+- 79.01% accuracy reported in the published study.
 
-Flask-based demonstration application.
+- Flask-based demonstration application.
 
-Publication: Vocal Sentiments: Transformer Based Speech Emotion Recognition — VFAST Transactions on Software Engineering, Vol. 13, Issue 3, 2025.
+**Publication:** Vocal Sentiments: Transformer Based Speech Emotion Recognition — VFAST Transactions on Software Engineering, Vol. 13, Issue 3, 2025.
 
-GitHub Repository → | Research Paper →
+[**GitHub Repository →**](https://github.com/didar-ali-deed/Vocal-Sentiment-SER) | [**Research Paper →**](https://doi.org/10.21015/vtse.v13i3.2174)
 
-4. Health AI Super App — Applied Machine Learning
+#### Health AI Super App — Applied Machine Learning
 
 An AI-focused health application integrating multiple predictive model workflows through Streamlit.
 
-Highlights:
+**Highlights:**
 
-Machine learning for diabetes and Parkinson's prediction.
+- Machine learning for diabetes and Parkinson's prediction.
 
-Pneumonia-related image analysis workflow.
+- Pneumonia-related image analysis workflow.
 
-User authentication and prediction history.
+- User authentication and prediction history.
 
-Interactive application interface.
+- Interactive application interface.
 
-Stack: Python, TensorFlow/Keras, XGBoost, Streamlit, SQLite
+**Stack:** Python, TensorFlow/Keras, XGBoost, Streamlit, SQLite
 
 Research and demonstration software; not a clinically validated diagnostic system.
 
-Explore Repository → | Live Demo →
+[**Explore Repository →**](https://github.com/didar-ali-deed/health-ai-super-app) | [**Live Demo →**](https://health-ai-super-app-deed.streamlit.app)
 
-📊 Data Analytics, Data Science & Business Intelligence
+### 📊 Data Analytics, Data Science & Business Intelligence
 
-5. UCI Retail Observatory — Advanced Analytics & Machine Learning
+#### UCI Retail Observatory — Advanced Analytics & Machine Learning
 
 A reproducible retail analytics and forecasting project using the real UCI Online Retail II dataset.
 
-Highlights:
+**Highlights:**
 
-1,067,371 source records processed.
+- 1,067,371 source records processed.
 
-25 modular Python pipeline stages.
+- 25 modular Python pipeline stages.
 
-22 SQL business analyses.
+- 22 SQL business analyses.
 
-Data acquisition, profiling, cleaning, transformation, and feature engineering.
+- Data acquisition, profiling, cleaning, transformation, and feature engineering.
 
-Statistical analysis, visualization, and predictive modeling.
+- Statistical analysis, visualization, and predictive modeling.
 
-Three-page Power BI dashboard.
+- Three-page Power BI dashboard.
 
-Key results:
+**Key results:**
 
-£20.53M recorded gross sales.
+- £20.53M recorded gross sales.
 
-40,077 distinct sale invoices.
+- 40,077 distinct sale invoices.
 
-8.1% lower holdout MAE for Ridge forecasting compared with the same-weekday baseline.
+- 8.1% lower holdout MAE for Ridge forecasting compared with the same-weekday baseline.
 
-Stack: Python, Pandas, NumPy, SQL, SciPy, Scikit-learn, Matplotlib, Seaborn, Power BI
+**Stack:** Python, Pandas, NumPy, SQL, SciPy, Scikit-learn, Matplotlib, Seaborn, Power BI
 
-Explore Repository & Dashboards →
+[**Explore Repository & Dashboards →**](https://github.com/didar-ali-deed/advanced-data-analytics-ml-pipeline)
 
-6. Customer Complaint Intelligence — Large-Scale Analytics & NLP
+#### Customer Complaint Intelligence — Large-Scale Analytics & NLP
 
 An end-to-end analytical pipeline for the official Consumer Financial Protection Bureau consumer complaint database.
 
-Highlights:
+**Highlights:**
 
-Approximately 18.1 million complaint records processed in the documented execution.
+- Approximately 18.1 million complaint records processed in the documented execution.
 
-Chunked data preparation and quality validation.
+- Chunked data preparation and quality validation.
 
-Relational SQLite modeling and analytical SQL.
+- Relational SQLite modeling and analytical SQL.
 
-NLP-based complaint narrative exploration.
+- NLP-based complaint narrative exploration.
 
-Power BI-ready datasets and reporting.
+- Power BI-ready datasets and reporting.
 
-Stack: Python, Pandas, PyArrow, SQL, SQLite, Scikit-learn, NLP, Power BI
+**Stack:** Python, Pandas, PyArrow, SQL, SQLite, Scikit-learn, NLP, Power BI
 
-Explore Repository →
+[**Explore Repository →**](https://github.com/didar-ali-deed/customer-complaint-intelligence)
 
-7. NovaCart E-Commerce Analytics — Business Intelligence
+#### NovaCart E-Commerce Analytics — Business Intelligence
 
 An e-commerce analytics portfolio project using a structured, business-realistic synthetic dataset.
 
-Highlights:
+**Highlights:**
 
-End-to-end data cleaning, transformation, and validation.
+- End-to-end data cleaning, transformation, and validation.
 
-SQL business analysis and relational database modeling.
+- SQL business analysis and relational database modeling.
 
-Four-page Power BI dashboard.
+- Four-page Power BI dashboard.
 
-Sales, profitability, marketing, customer, and returns analysis.
+- Sales, profitability, marketing, customer, and returns analysis.
 
-Portfolio dataset results:
+**Portfolio dataset results:**
 
-$16.44M recorded revenue.
+- $16.44M recorded revenue.
 
-$4.93M profit.
+- $4.93M profit.
 
-29.98% profit margin.
+- 29.98% profit margin.
 
-Approximately 107K completed orders.
+- Approximately 107K completed orders.
 
-Stack: Python, Pandas, NumPy, SQL, SQLite, Power BI, DAX
+**Stack:** Python, Pandas, NumPy, SQL, SQLite, Power BI, DAX
 
-Explore Repository & Dashboard →
+[**Explore Repository & Dashboard →**](https://github.com/didar-ali-deed/novacart-ecommerce-analytics)
 
-8. NYC Taxi Pulse — Transportation Data Analytics
+#### NYC Taxi Pulse — Transportation Data Analytics
 
 An end-to-end analytics project using public New York City TLC Yellow Taxi data.
 
-Highlights:
+**Highlights:**
 
-1,000,000 cleaned taxi trips.
+- 1,000,000 cleaned taxi trips.
 
-$27.30M recorded revenue in the analyzed extract.
+- $27.30M recorded revenue in the analyzed extract.
 
-Time-series, geographic, and demand analysis.
+- Time-series, geographic, and demand analysis.
 
-SQLite star schema and analytical SQL.
+- SQLite star schema and analytical SQL.
 
-Data visualization and Power BI reporting workflow.
+- Data visualization and Power BI reporting workflow.
 
-Stack: Python, Pandas, NumPy, SQL, SQLite, Matplotlib, Seaborn, Power BI
+**Stack:** Python, Pandas, NumPy, SQL, SQLite, Matplotlib, Seaborn, Power BI
 
-Explore Repository →
+[**Explore Repository →**](https://github.com/didar-ali-deed/nyc-taxi-pulse)
 
-⚙️ Computer Systems & Low-Level Programming
+### ⚙️ Computer Systems & Low-Level Programming
 
-9. Linux System Monitor — C & Linux Programming
+#### Linux System Monitor — C & Linux Programming
 
 A terminal-based system resource monitor using Linux process information and Ncurses.
 
-Highlights:
+**Highlights:**
 
-Process and resource monitoring.
+- Process and resource monitoring.
 
-Linux /proc filesystem integration.
+- Linux /proc filesystem integration.
 
-CPU and memory statistics.
+- CPU and memory statistics.
 
-Keyboard-controlled terminal interface.
+- Keyboard-controlled terminal interface.
 
-Process parsing and sampling tests.
+- Process parsing and sampling tests.
 
-Stack: C, Linux, POSIX, Ncurses, Make
+**Stack:** C, Linux, POSIX, Ncurses, Make
 
-Explore Repository →
+[**Explore Repository →**](https://github.com/didar-ali-deed/linux-resource-monitor)
 
-10. Virtual File System — Unix-Like File System Emulator
+#### Virtual File System — Unix-Like File System Emulator
 
 An in-memory file system developed in C to demonstrate operating-system and file-management concepts.
 
-Highlights:
+**Highlights:**
 
-Unix-inspired command interface.
+- Unix-inspired command interface.
 
-Directory and file operations.
+- Directory and file operations.
 
-File ownership and permission commands.
+- File ownership and permission commands.
 
-Symbolic links and file searching.
+- Symbolic links and file searching.
 
-Save/load persistence.
+- Save/load persistence.
 
-Stack: C, Linux, File Systems, Make
+**Stack:** C, Linux, File Systems, Make
 
-Explore Repository →
+[**Explore Repository →**](https://github.com/didar-ali-deed/virtual-file-system)
 
-🔬 Research & Engineering Interests
+## 🔬 Research & Engineering Interests
 
-Area
-
-Interests
-
-Deep Learning
-
-Transformers, representation learning, computer vision, speech and language models
-
-Applied AI
-
-Document intelligence, biometric verification, NLP, model inference
-
-Data Science
-
-Feature engineering, statistics, predictive modeling, forecasting
-
+| Area | Interests |
+|---|---|
+| Deep Learning | Transformers, representation learning, computer vision, speech and language models |
+| Applied AI | Document intelligence, biometric verification, NLP, model inference |
+| Data Science | Feature engineering, statistics, predictive modeling, forecasting |
+| Business Intelligence | SQL analytics, Power BI, KPIs, data storytelling |
+| Systems Engineering | Linux internals, C/C++, processes, operating systems, file systems |
+| Software Engineering | Backend APIs, Docker, databases, testing, reproducible workflows |
 Business Intelligence
 
 SQL analytics, Power BI, KPIs, data storytelling
@@ -338,19 +334,19 @@ Software Engineering
 
 Backend APIs, Docker, databases, testing, reproducible workflows
 
-🎓 Education & Certifications
+## 🎓 Education & Certifications
 
 B.Sc. Computer Systems Engineering
 University of Engineering & Technology (UET), Peshawar
 2021–2025 | CGPA: 3.01 / 4.00
 
-Certifications
+**Certifications**
 
-Google Data Analytics Professional Certificate
+- Google Data Analytics Professional Certificate
 
-Google Cybersecurity Professional Certificate
+- Google Cybersecurity Professional Certificate
 
-📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <div align="center">
 
@@ -360,7 +356,7 @@ Google Cybersecurity Professional Certificate
 
 </div>
 
-🔥 Contribution Streak
+### 🔥 Contribution Streak
 
 <div align="center">
 
@@ -368,7 +364,7 @@ Google Cybersecurity Professional Certificate
 
 </div>
 
-📊 Contribution Activity
+### 📊 Contribution Activity
 
 <div align="center">
 
@@ -376,7 +372,7 @@ Google Cybersecurity Professional Certificate
 
 </div>
 
-🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution Snake
 
 <div align="center">
 
@@ -388,7 +384,9 @@ Google Cybersecurity Professional Certificate
 
 </div>
 
-🤝 Let's Connect
+---
+
+## 🤝 Let's Connect
 
 I'm interested in opportunities and collaborations involving AI/ML Engineering, Data Science, Data Analytics, Business Intelligence, Computer Systems, and Applied Research.
 
@@ -396,11 +394,11 @@ If you're building an AI-powered product, an analytical platform, or a systems e
 
 <div align="center">
 
-🌐 Portfolio •
-💼 LinkedIn •
-💻 GitHub •
-✉️ Email
+[🌐 Portfolio](https://didar-ali.vercel.app) •
+[💼 LinkedIn](https://www.linkedin.com/in/didar-ali-deed) •
+[💻 GitHub](https://github.com/didar-ali-deed) •
+[✉️ Email](mailto:didarali1129@gmail.com)
 
-Engineering intelligent solutions through data, algorithms, and systems.
+**Engineering intelligent solutions through data, algorithms, and systems.**
 
 </div>
