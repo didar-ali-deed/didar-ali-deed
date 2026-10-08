@@ -45,11 +45,28 @@ My work includes transformer-based language and speech models, document intellig
 
 A focused selection demonstrating **engineering depth, data scale, applied research, and end-to-end delivery**. Each repository includes implementation notes, methodology, and limitations.
 
-<p align="center">
-  <a href="https://github.com/didar-ali-deed/Identity-Verification-System"><img src="https://raw.githubusercontent.com/didar-ali-deed/Identity-Verification-System/main/docs/screenshots/approved.png" width="49%" alt="Identity verification system with synthetic identity demonstration" /></a>
-  <a href="https://github.com/didar-ali-deed/advanced-data-analytics-ml-pipeline"><img src="https://raw.githubusercontent.com/didar-ali-deed/advanced-data-analytics-ml-pipeline/main/powerbi/Executive%20Overview.png" width="49%" alt="UCI Retail Observatory Power BI dashboard" /></a>
-</p>
-<p align="center"><sub>Identity Verification System (synthetic demonstration) · UCI Retail Observatory (historical retail analytics)</sub></p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/didar-ali-deed/Identity-Verification-System">
+        <img src="https://raw.githubusercontent.com/didar-ali-deed/Identity-Verification-System/main/docs/screenshots/approved.png" alt="Identity Verification System demo" height="200" />
+      </a>
+      <br />
+      <strong>Identity Verification System</strong>
+      <br />
+      <sub>Document AI · OCR · Biometrics</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/didar-ali-deed/advanced-data-analytics-ml-pipeline">
+        <img src="https://raw.githubusercontent.com/didar-ali-deed/advanced-data-analytics-ml-pipeline/main/powerbi/Executive%20Overview.png" alt="UCI Retail Observatory Power BI Executive Overview" height="200" />
+      </a>
+      <br />
+      <strong>UCI Retail Observatory</strong>
+      <br />
+      <sub>Analytics · Forecasting · Power BI</sub>
+    </td>
+  </tr>
+</table>
 
 ### Artificial Intelligence & Machine Learning
 
