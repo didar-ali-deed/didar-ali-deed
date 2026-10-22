@@ -3,7 +3,9 @@
 <p align="center">
   <strong>AI / Machine Learning Engineer · Data Analyst · Computer Systems Engineer</strong>
 </p>
-<p align="center">Building intelligent applications, reliable data pipelines, and systems software.</p>
+<p align="center">
+  Building intelligent solutions, scalable data pipelines, and robust software systems.
+</p>
 
 <p align="center">
   <a href="https://didar-ali.vercel.app">Portfolio</a> ·
