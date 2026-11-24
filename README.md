@@ -63,19 +63,19 @@ A curated look at projects spanning end-to-end ML applications, large-dataset an
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="bottom">
       <a href="https://github.com/didar-ali-deed/Identity-Verification-System">
-        <img src="https://raw.githubusercontent.com/didar-ali-deed/Identity-Verification-System/main/docs/screenshots/approved.png" alt="Identity Verification System verification workflow screenshot" width="100%" />
+        <img src="https://raw.githubusercontent.com/didar-ali-deed/Identity-Verification-System/main/docs/screenshots/approved.png" alt="Identity Verification System verification workflow screenshot" height="230" />
       </a>
-      <br />
+      <br /><br />
       <strong>Identity Verification System</strong><br />
       <sub>OCR · Facial/Liveness Signals · Audit Trails</sub>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="bottom">
       <a href="https://github.com/didar-ali-deed/advanced-data-analytics-ml-pipeline">
-        <img src="https://raw.githubusercontent.com/didar-ali-deed/advanced-data-analytics-ml-pipeline/main/powerbi/Executive%20Overview.png" alt="UCI Retail Observatory Power BI Executive Overview dashboard" width="100%" />
+        <img src="https://raw.githubusercontent.com/didar-ali-deed/advanced-data-analytics-ml-pipeline/main/powerbi/Executive%20Overview.png" alt="UCI Retail Observatory Power BI Executive Overview dashboard" height="230" />
       </a>
-      <br />
+      <br /><br />
       <strong>UCI Retail Observatory</strong><br />
       <sub>25-Stage Pipeline · Forecasting · Power BI</sub>
     </td>
