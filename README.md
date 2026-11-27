@@ -1,7 +1,7 @@
 # Didar Ali
 
 <p align="center">
-  <strong>AI / Machine Learning Engineer | Data Analyst | Computer Systems Engineer</strong>
+  <strong>AI Engineer | Machine Learning Engineer | Data Engineer | Computer Systems Engineer</strong>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-505050?style=flat-square&labelColor=191919" alt="Location: Rawalpindi, Pakistan" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Relocation-FF8A00?style=flat-square&labelColor=191919" alt="Open to roles and relocation" />
   <a href="https://doi.org/10.21015/vtse.v13i3.2174">
-    <img src="https://img.shields.io/badge/Peer--Reviewed%20Paper-VFAST%202025-E87500?style=flat-square&labelColor=191919" alt="Peer-reviewed paper, VFAST Transactions on Software Engineering, 2025" />
+    <img src="https://img.shields.io/badge/Peer--Reviewed%20Paper-VFAST%202025-E87500?style=flat-square&labelColor=191919" alt="Peer-reviewed paper, VFAST 2025" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@ I am a **Computer Systems Engineering graduate from UET Peshawar** (2021–2025)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,pytorch,tensorflow,sklearn,fastapi,postgres,sqlite,docker,git,github&perline=7" width="560" alt="Python, C, C++, Bash, Linux, PyTorch, TensorFlow, scikit-learn, FastAPI, PostgreSQL, SQLite, Docker, Git, GitHub" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,pytorch,tensorflow,sklearn,fastapi,postgres,sqlite,docker,git,github&perline=7" width="560" alt="Core technology stack" />
   </a>
 </p>
 
@@ -75,21 +75,21 @@ Nine selected projects across AI/ML, analytics, and data engineering. Each repos
   <tr>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/didar-ali-deed/Identity-Verification-System">
-        <img src="https://didar-ali.vercel.app/projects/identity-verification.png" width="100%" alt="Identity Verification System preview" />
+        <img src="https://didar-ali.vercel.app/static/assets/projects/identity-verification.webp" width="100%" alt="Identity Verification System preview" />
       </a>
       <br />
       <sub><strong>Identity Verification System</strong><br />KYC, OCR, liveness, audit logs</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/didar-ali-deed/advanced-data-analytics-ml-pipeline">
-        <img src="https://didar-ali.vercel.app/projects/uci-retail-observatory.png" width="100%" alt="UCI Retail Observatory preview" />
+        <img src="https://didar-ali.vercel.app/static/assets/projects/uci-retail-observatory.webp" width="100%" alt="UCI Retail Observatory preview" />
       </a>
       <br />
       <sub><strong>UCI Retail Observatory</strong><br />25-stage pipeline, forecasting, Power BI</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/didar-ali-deed/Vocal-Sentiment-SER">
-        <img src="https://didar-ali.vercel.app/projects/speech-emotion-recognition.png" width="100%" alt="Speech Emotion Recognition preview" />
+        <img src="https://didar-ali.vercel.app/static/assets/projects/speech-emotion-recognition.webp" width="100%" alt="Speech Emotion Recognition preview" />
       </a>
       <br />
       <sub><strong>Vocal Sentiments (SER)</strong><br />Wav2Vec2, published research</sub>
@@ -98,21 +98,21 @@ Nine selected projects across AI/ML, analytics, and data engineering. Each repos
   <tr>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/didar-ali-deed/health-ai-super-app">
-        <img src="https://didar-ali.vercel.app/projects/health-ai-super-app.png" width="100%" alt="AI Health Super App preview" />
+        <img src="https://didar-ali.vercel.app/static/assets/projects/health-ai-super-app.webp" width="100%" alt="AI Health Super App preview" />
       </a>
       <br />
       <sub><strong>AI Health Super App</strong><br />XGBoost, DNN, CNN, Streamlit</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/didar-ali-deed/sentiment-analysis-app">
-        <img src="https://didar-ali.vercel.app/projects/sentiment-intelligence-lab.png" width="100%" alt="Sentiment Analysis Lab preview" />
+        <img src="https://didar-ali.vercel.app/static/assets/projects/sentiment-intelligence-lab.webp" width="100%" alt="Sentiment Analysis Lab preview" />
       </a>
       <br />
       <sub><strong>Sentiment Analysis Lab</strong><br />BERT, DistilBERT, ONNX Runtime</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/didar-ali-deed/nyc-taxi-pulse">
-        <img src="https://didar-ali.vercel.app/projects/nyc-taxi-analytics.png" width="100%" alt="NYC Taxi Pulse preview" />
+        <img src="https://didar-ali.vercel.app/static/assets/projects/nyc-taxi-analytics.webp" width="100%" alt="NYC Taxi Pulse preview" />
       </a>
       <br />
       <sub><strong>NYC Taxi Pulse</strong><br />1M trips, SQL, Power BI</sub>
@@ -121,21 +121,21 @@ Nine selected projects across AI/ML, analytics, and data engineering. Each repos
   <tr>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/didar-ali-deed/novacart-ecommerce-analytics">
-        <img src="https://didar-ali.vercel.app/projects/novacart-ecommerce-analytics.png" width="100%" alt="NovaCart E-Commerce Analytics preview" />
+        <img src="https://didar-ali.vercel.app/static/assets/projects/novacart-ecommerce-analytics.webp" width="100%" alt="NovaCart E-Commerce Analytics preview" />
       </a>
       <br />
       <sub><strong>NovaCart E-Commerce Analytics</strong><br />25 SQL queries, 4-page Power BI</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://didar-ali.vercel.app/#projects">
-        <img src="https://didar-ali.vercel.app/projects/face-recognition-liveness.png" width="100%" alt="Face Recognition and Liveness Service preview" />
+        <img src="https://didar-ali.vercel.app/static/assets/projects/face-recognition-liveness.webp" width="100%" alt="Face Recognition and Liveness Service preview" />
       </a>
       <br />
       <sub><strong>Face Recognition and Liveness</strong><br />MTCNN, anti-spoofing, NFC DG2</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://didar-ali.vercel.app/#projects">
-        <img src="https://didar-ali.vercel.app/projects/job-data-scraper.png" width="100%" alt="Multi-Source Job Data Scraper preview" />
+        <img src="https://didar-ali.vercel.app/static/assets/projects/job-data-scraper.webp" width="100%" alt="Multi-Source Job Data Scraper preview" />
       </a>
       <br />
       <sub><strong>Multi-Source Job Scraper</strong><br />Playwright, deduplication</sub>
