@@ -1,240 +1,342 @@
+::: {align="center"}
 # Didar Ali
 
-<p align="center">
-  <strong>AI Engineer | Machine Learning Engineer | Data Engineer | Computer Systems Engineer</strong>
-</p>
+### AI/ML Engineer · Data Engineer · Data Analyst · Computer Systems Engineer
 
-<p align="center">
-  Building practical AI/ML systems, reproducible data pipelines, and reliable low-level software.
-</p>
+**Building applied AI systems, dependable data pipelines, and practical
+software.**
 
-<p align="center">
-  <a href="https://didar-ali.vercel.app"><strong>Portfolio</strong></a> |
-  <a href="https://www.linkedin.com/in/didar-ali-deed"><strong>LinkedIn</strong></a> |
-  <a href="https://github.com/didar-ali-deed?tab=repositories"><strong>Repositories</strong></a> |
-  <a href="mailto:didarali1129@gmail.com"><strong>Email</strong></a>
-</p>
+[Portfolio](https://didar-ali.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/didar-ali-deed) ·
+[GitHub](https://github.com/didar-ali-deed) ·
+[Email](mailto:didarali1129@gmail.com)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-505050?style=flat-square&labelColor=191919" alt="Location: Rawalpindi, Pakistan" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Relocation-FF8A00?style=flat-square&labelColor=191919" alt="Open to roles and relocation" />
-  <a href="https://doi.org/10.21015/vtse.v13i3.2174">
-    <img src="https://img.shields.io/badge/Peer--Reviewed%20Paper-VFAST%202025-E87500?style=flat-square&labelColor=191919" alt="Peer-reviewed paper, VFAST 2025" />
-  </a>
-</p>
+![Location](https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-505050?style=flat-square&labelColor=191919)
+![Open to
+opportunities](https://img.shields.io/badge/Availability-Open%20to%20Opportunities-15803d?style=flat-square&labelColor=191919)
+[![Publication](https://img.shields.io/badge/Publication-VFAST%202025-E87500?style=flat-square&labelColor=191919)](https://doi.org/10.21015/vtse.v13i3.2174)
+:::
 
----
+------------------------------------------------------------------------
 
-## About
+## Profile
 
-I am a **Computer Systems Engineering graduate from UET Peshawar** (2021–2025), working across **applied AI/ML, data analytics, and computer systems**. I take problems from framing and data engineering through reproducible modeling and clear evaluation to working software.
+I am a **Computer Systems Engineering graduate from the University of
+Engineering and Technology (UET), Peshawar (2021--2025)**, with hands-on
+experience spanning applied AI/ML, data analytics, data engineering, and
+Linux-based systems.
 
-- **AI and ML:** Transformer-based NLP and speech models (BERT, Wav2Vec2), document and biometric pipelines, FastAPI services, and web demos.
-- **Data and BI:** Large-scale Python and SQL workflows, statistical forecasting, and multi-page Power BI dashboards.
-- **Systems:** C/C++ on Linux (`/proc`, POSIX, file systems, ncurses), with a focus on correctness and testing.
-- **Research:** Co-author of a peer-reviewed paper on speech emotion recognition in *VFAST Transactions on Software Engineering* (2025).
+I enjoy taking projects from problem definition and data preparation
+through model development, evaluation, and deployment. My work includes
+identity-verification workflows, transformer-based speech and text
+models, analytical data pipelines, business-intelligence dashboards, and
+low-level Linux applications.
 
-**Focus areas:** Applied AI, ML Engineering, Data Engineering, Business Intelligence, Linux Systems.
+**Areas of focus** - **AI and machine learning:** NLP, speech
+processing, computer vision, OCR, biometric workflows, model evaluation,
+and API deployment. - **Data and analytics:** Python, SQL, data
+processing, exploratory analysis, forecasting, and Power BI. - **Systems
+engineering:** C/C++, Linux, process and file-system concepts, POSIX
+interfaces, and automated testing. - **Research:** Co-author of a
+peer-reviewed 2025 paper on transformer-based speech emotion
+recognition.
 
----
+------------------------------------------------------------------------
 
-## Experience
+## Professional Experience
 
-**AI Engineer I — Xflow Research Inc., Islamabad**  
-*February 2026 – May 2026*
+### AI Engineer I · Xflow Research Inc., Islamabad
 
-- Built a face recognition system with anti-spoofing for identity verification (KYC).
-- Developed OCR pipelines for ID card and passport data extraction with field-level validation.
-- Integrated NFC chip reading for e-passport verification.
-- Worked on multi-stage backend verification pipelines involving OCR, MRZ parsing, NFC data, and decision workflows.
+*February 2026 -- May 2026*
 
----
+-   Developed a face-recognition workflow with anti-spoofing checks for
+    identity verification and KYC use cases.
+-   Built OCR pipelines to extract and validate information from
+    identity cards and passports.
+-   Integrated NFC chip reading for e-passport verification.
+-   Worked on multi-stage verification workflows combining OCR, MRZ
+    parsing, NFC data, and decision logic.
 
-## Technical Stack
+------------------------------------------------------------------------
 
-| AI and Machine Learning | Data Engineering and Analytics | Systems and Software |
-|:---|:---|:---|
-| PyTorch, TensorFlow, Keras, scikit-learn | Python, Pandas, NumPy, SciPy | C, C++, Linux, Bash |
-| Hugging Face Transformers, BERT, Wav2Vec2 | SQL, SQLite, PostgreSQL, MySQL | Processes, file systems, POSIX, ncurses |
-| NLP, Computer Vision, OCR, OpenCV | Forecasting, statistical analysis, EDA | FastAPI, REST APIs, Docker, Nginx |
-| Training, evaluation, error analysis | Power BI, DAX, Power Query | Git, GitHub Actions, testing |
+## Technical Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,pytorch,tensorflow,sklearn,fastapi,postgres,sqlite,docker,git,github&perline=7" width="560" alt="Core technology stack" />
-  </a>
-</p>
+  -----------------------------------------------------------------------
+  AI / Machine Learning   Data / Analytics        Software / Systems
+  ----------------------- ----------------------- -----------------------
+  PyTorch, TensorFlow,    Python, Pandas, NumPy,  C, C++, Linux, Bash
+  Keras, scikit-learn     SciPy                   
 
----
+  Hugging Face            SQL, SQLite,            POSIX, processes, file
+  Transformers, BERT,     PostgreSQL, MySQL       systems, ncurses
+  Wav2Vec2                                        
 
-## Featured Projects
+  NLP, computer vision,   EDA, forecasting,       FastAPI, REST APIs,
+  OCR, OpenCV             statistical analysis    Docker, Nginx
 
-Nine selected projects across AI/ML, analytics, and data engineering. Each repository documents its setup, methodology, results, and limitations. Click a preview to open the repository.
+  Model training,         Power BI, DAX, Power    Git, GitHub Actions,
+  evaluation, error       Query                   testing
+  analysis                                        
+  -----------------------------------------------------------------------
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/didar-ali-deed/Identity-Verification-System">
-        <img src="https://didar-ali.vercel.app/static/assets/projects/identity-verification.webp" width="100%" alt="Identity Verification System preview" />
-      </a>
-      <br />
-      <sub><strong>Identity Verification System</strong><br />KYC, OCR, liveness, audit logs</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/didar-ali-deed/advanced-data-analytics-ml-pipeline">
-        <img src="https://didar-ali.vercel.app/static/assets/projects/uci-retail-observatory.webp" width="100%" alt="UCI Retail Observatory preview" />
-      </a>
-      <br />
-      <sub><strong>UCI Retail Observatory</strong><br />25-stage pipeline, forecasting, Power BI</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/didar-ali-deed/Vocal-Sentiment-SER">
-        <img src="https://didar-ali.vercel.app/static/assets/projects/speech-emotion-recognition.webp" width="100%" alt="Speech Emotion Recognition preview" />
-      </a>
-      <br />
-      <sub><strong>Vocal Sentiments (SER)</strong><br />Wav2Vec2, published research</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/didar-ali-deed/health-ai-super-app">
-        <img src="https://didar-ali.vercel.app/static/assets/projects/health-ai-super-app.webp" width="100%" alt="AI Health Super App preview" />
-      </a>
-      <br />
-      <sub><strong>AI Health Super App</strong><br />XGBoost, DNN, CNN, Streamlit</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/didar-ali-deed/sentiment-analysis-app">
-        <img src="https://didar-ali.vercel.app/static/assets/projects/sentiment-intelligence-lab.webp" width="100%" alt="Sentiment Analysis Lab preview" />
-      </a>
-      <br />
-      <sub><strong>Sentiment Analysis Lab</strong><br />BERT, DistilBERT, ONNX Runtime</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/didar-ali-deed/nyc-taxi-pulse">
-        <img src="https://didar-ali.vercel.app/static/assets/projects/nyc-taxi-analytics.webp" width="100%" alt="NYC Taxi Pulse preview" />
-      </a>
-      <br />
-      <sub><strong>NYC Taxi Pulse</strong><br />1M trips, SQL, Power BI</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/didar-ali-deed/novacart-ecommerce-analytics">
-        <img src="https://didar-ali.vercel.app/static/assets/projects/novacart-ecommerce-analytics.webp" width="100%" alt="NovaCart E-Commerce Analytics preview" />
-      </a>
-      <br />
-      <sub><strong>NovaCart E-Commerce Analytics</strong><br />25 SQL queries, 4-page Power BI</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://didar-ali.vercel.app/#projects">
-        <img src="https://didar-ali.vercel.app/static/assets/projects/face-recognition-liveness.webp" width="100%" alt="Face Recognition and Liveness Service preview" />
-      </a>
-      <br />
-      <sub><strong>Face Recognition and Liveness</strong><br />MTCNN, anti-spoofing, NFC DG2</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://didar-ali.vercel.app/#projects">
-        <img src="https://didar-ali.vercel.app/static/assets/projects/job-data-scraper.webp" width="100%" alt="Multi-Source Job Data Scraper preview" />
-      </a>
-      <br />
-      <sub><strong>Multi-Source Job Scraper</strong><br />Playwright, deduplication</sub>
-    </td>
-  </tr>
-</table>
+::: {align="center"}
+[![Core
+technologies](https://skillicons.dev/icons?i=python,c,cpp,bash,linux,pytorch,tensorflow,sklearn,fastapi,postgres,sqlite,docker,git,github&perline=7)](https://skillicons.dev)
+:::
 
-### Artificial Intelligence and Machine Learning
+------------------------------------------------------------------------
 
-| Project | Stack | Summary and reported results |
-|:---|:---|:---|
-| **[Identity Verification System](https://github.com/didar-ali-deed/Identity-Verification-System)** | FastAPI, PostgreSQL, Redis, Celery, React, Docker | 10-stage KYC pipeline with MRZ/VIZ extraction, liveness checks, 5-channel weighted scoring, 11 hard-rule overrides, watchlist screening, and 9 PostgreSQL tables of immutable audit logs. A research and demo prototype, not a certified KYC product. |
-| **[Vocal Sentiments (Speech Emotion Recognition)](https://github.com/didar-ali-deed/Vocal-Sentiment-SER)** | PyTorch, Wav2Vec2, Librosa, Flask | Fine-tuned Wav2Vec2 on RAVDESS and TESS with noise augmentation; the published study reports **79.01% accuracy**. |
-| **[BERT Sentiment Analysis](https://github.com/didar-ali-deed/sentiment-analysis-bert-fastapi-imdb)** | PyTorch, Hugging Face, FastAPI, React | Fine-tuned `bert-base-uncased` on IMDb and served through FastAPI with a React frontend; the repository reports **93.66% test accuracy**. |
-| **[Sentiment Analysis Lab](https://github.com/didar-ali-deed/sentiment-analysis-app)** | DistilBERT, Flask, ONNX Runtime | Lightweight web app with single-text and batch analysis, confidence metadata, and a model card. |
-| **[AI Health Super App](https://github.com/didar-ali-deed/health-ai-super-app)** ([Live Demo](https://health-ai-super-app-deed.streamlit.app)) | XGBoost, TensorFlow, Keras, Streamlit, SQLite | Three model pathways with login and prediction history: diabetes (~88%), Parkinson's screening (~91%), and pneumonia X-rays (~92%). A screening demo, not a medical device. |
-| **Face Recognition and Liveness Service** ([Portfolio](https://didar-ali.vercel.app/#projects)) | FastAPI, MTCNN, InceptionResNetV1, OpenCV | Face detection and matching, anti-spoofing, and selfie-to-e-passport portrait comparison via NFC DG2, with 37 documented tests. |
+## Selected Projects
 
-### Data Science, Analytics and Business Intelligence
+A selection of projects across AI/ML, analytics, data engineering, and
+computer systems. Open each repository for implementation details, setup
+instructions, methodology, and documented results.
 
-| Project | Stack | Summary and reported results |
-|:---|:---|:---|
-| **[UCI Retail Observatory](https://github.com/didar-ali-deed/advanced-data-analytics-ml-pipeline)** | Python, SQL, scikit-learn, Power BI | 1,067,371 source rows through **25** stages (1,044,843 accepted, 22,528 quarantined), **22** SQL queries, and a 3-page Power BI report. Ridge forecasting achieved **8.1% lower** holdout MAE than a same-weekday baseline over 142 days. |
-| **[NYC Taxi Pulse](https://github.com/didar-ali-deed/nyc-taxi-pulse)** | Python, SQLite, SQL, Streamlit, Power BI | **1M** validated TLC Yellow Taxi trips (January–February 2023); 18:00 was the peak hour with 71,329 trips and JFK led pickups with 49,673. |
-| **[NovaCart E-Commerce Analytics](https://github.com/didar-ali-deed/novacart-ecommerce-analytics)** | Pandas, SQLite, Power BI, DAX | Cleaned six raw CSV tables, wrote **25** SQL queries, and built a 4-page dashboard. Figures come from a synthetic dataset. |
-| **[Customer Complaint Intelligence](https://github.com/didar-ali-deed/customer-complaint-intelligence)** | Python, SQLite, SQL, NLP, Power BI | Chunked ingestion and analysis of approximately **18.1M** CFPB complaint records with analytical SQL, narrative NLP, and Power BI exports. |
+### Project Gallery
+
+::: {align="center"}
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                  Project                                                                                 What it does
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------
+                                                                                [![Identity                                                                               KYC workflow, OCR, liveness
+      Verification](https://didar-ali.vercel.app/static/assets/projects/identity-verification.webp)](https://github.com/didar-ali-deed/Identity-Verification-System)      checks, audit logs
+                                    **[Identity Verification System](https://github.com/didar-ali-deed/Identity-Verification-System)**                                    
+
+                                                                               [![UCI Retail                                                                              Data pipeline, forecasting,
+   Observatory](https://didar-ali.vercel.app/static/assets/projects/uci-retail-observatory.webp)](https://github.com/didar-ali-deed/advanced-data-analytics-ml-pipeline)  SQL, Power BI
+                                    **[UCI Retail Observatory](https://github.com/didar-ali-deed/advanced-data-analytics-ml-pipeline)**                                   
+
+                                                                             [![Speech Emotion                                                                            Wav2Vec2-based speech emotion
+    Recognition](https://didar-ali.vercel.app/static/assets/projects/speech-emotion-recognition.webp)](https://github.com/didar-ali-deed/Vocal-Sentiment-SER) **[Vocal    recognition
+                                                Sentiments (SER)](https://github.com/didar-ali-deed/Vocal-Sentiment-SER)**                                                
+
+    [![AI Health Super App](https://didar-ali.vercel.app/static/assets/projects/health-ai-super-app.webp)](https://github.com/didar-ali-deed/health-ai-super-app) **[AI   ML screening demos using
+                                                Health Super App](https://github.com/didar-ali-deed/health-ai-super-app)**                                                XGBoost, DNN, and CNN
+
+                                                                           [![Sentiment Analysis                                                                          BERT-family models and ONNX
+     Lab](https://didar-ali.vercel.app/static/assets/projects/sentiment-intelligence-lab.webp)](https://github.com/didar-ali-deed/sentiment-analysis-app) **[Sentiment    Runtime
+                                                 Analysis Lab](https://github.com/didar-ali-deed/sentiment-analysis-app)**                                                
+
+      [![NYC Taxi Pulse](https://didar-ali.vercel.app/static/assets/projects/nyc-taxi-analytics.webp)](https://github.com/didar-ali-deed/nyc-taxi-pulse) **[NYC Taxi      One million taxi trips, SQL,
+                                                        Pulse](https://github.com/didar-ali-deed/nyc-taxi-pulse)**                                                        and Power BI
+
+                                                                                [![NovaCart                                                                               SQL analysis and a four-page
+    Analytics](https://didar-ali.vercel.app/static/assets/projects/novacart-ecommerce-analytics.webp)](https://github.com/didar-ali-deed/novacart-ecommerce-analytics)    Power BI dashboard
+                                    **[NovaCart E-Commerce Analytics](https://github.com/didar-ali-deed/novacart-ecommerce-analytics)**                                   
+
+  [![Face Recognition](https://didar-ali.vercel.app/static/assets/projects/face-recognition-liveness.webp)](https://didar-ali.vercel.app/#projects) **Face Recognition &  Face matching, anti-spoofing,
+                                                                            Liveness Service**                                                                            and NFC passport data
+
+     [![Job Scraper](https://didar-ali.vercel.app/static/assets/projects/job-data-scraper.webp)](https://didar-ali.vercel.app/#projects) **Multi-Source Job Scraper**     Browser automation, structured
+                                                                                                                                                                          extraction, deduplication
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+:::
+
+### AI and Machine Learning
+
+  -----------------------------------------------------------------------------------------------------------------------------------
+  Project                                                                             Technology              Overview
+  ----------------------------------------------------------------------------------- ----------------------- -----------------------
+  [Identity Verification                                                              FastAPI, PostgreSQL,    A 10-stage KYC
+  System](https://github.com/didar-ali-deed/Identity-Verification-System)             Redis, Celery, React,   prototype covering
+                                                                                      Docker                  MRZ/VIZ extraction,
+                                                                                                              liveness checks,
+                                                                                                              weighted multi-channel
+                                                                                                              scoring, hard-rule
+                                                                                                              overrides, watchlist
+                                                                                                              screening, and
+                                                                                                              immutable audit logs
+                                                                                                              across nine PostgreSQL
+                                                                                                              tables. **Research/demo
+                                                                                                              prototype; not a
+                                                                                                              certified KYC
+                                                                                                              product.**
+
+  [Vocal Sentiments --- Speech Emotion                                                PyTorch, Wav2Vec2,      Fine-tuned Wav2Vec2
+  Recognition](https://github.com/didar-ali-deed/Vocal-Sentiment-SER)                 Librosa, Flask          using RAVDESS and TESS
+                                                                                                              with noise
+                                                                                                              augmentation. The
+                                                                                                              published study reports
+                                                                                                              **79.01% accuracy**.
+
+  [BERT Sentiment                                                                     PyTorch, Hugging Face,  Fine-tuned
+  Analysis](https://github.com/didar-ali-deed/sentiment-analysis-bert-fastapi-imdb)   FastAPI, React          `bert-base-uncased` on
+                                                                                                              IMDb and deployed it
+                                                                                                              through a FastAPI
+                                                                                                              backend with a React
+                                                                                                              frontend. The
+                                                                                                              repository reports
+                                                                                                              **93.66% test
+                                                                                                              accuracy**.
+
+  [Sentiment Analysis Lab](https://github.com/didar-ali-deed/sentiment-analysis-app)  DistilBERT, Flask, ONNX Lightweight application
+                                                                                      Runtime                 for single-text and
+                                                                                                              batch sentiment
+                                                                                                              analysis, with
+                                                                                                              confidence metadata and
+                                                                                                              a model card.
+
+  [AI Health Super App](https://github.com/didar-ali-deed/health-ai-super-app) ·      XGBoost, TensorFlow,    Three model pathways
+  [Live demo](https://health-ai-super-app-deed.streamlit.app)                         Keras, Streamlit,       with login and
+                                                                                      SQLite                  prediction history:
+                                                                                                              diabetes (\~88%),
+                                                                                                              Parkinson's screening
+                                                                                                              (\~91%), and pneumonia
+                                                                                                              X-rays (\~92%). **A
+                                                                                                              screening
+                                                                                                              demonstration, not a
+                                                                                                              medical device.**
+
+  Face Recognition and Liveness Service ·                                             FastAPI, MTCNN,         Face detection and
+  [Portfolio](https://didar-ali.vercel.app/#projects)                                 InceptionResNetV1,      matching,
+                                                                                      OpenCV                  anti-spoofing, and
+                                                                                                              selfie-to-e-passport
+                                                                                                              portrait comparison
+                                                                                                              using NFC DG2 data;
+                                                                                                              includes 37 documented
+                                                                                                              tests.
+  -----------------------------------------------------------------------------------------------------------------------------------
+
+### Data Science, Analytics, and Business Intelligence
+
+  -------------------------------------------------------------------------------------------------------------------------------------
+  Project                                                                               Technology              Overview
+  ------------------------------------------------------------------------------------- ----------------------- -----------------------
+  [UCI Retail                                                                           Python, SQL,            Processed 1,067,371
+  Observatory](https://github.com/didar-ali-deed/advanced-data-analytics-ml-pipeline)   scikit-learn, Power BI  source rows through 25
+                                                                                                                pipeline stages:
+                                                                                                                1,044,843 accepted and
+                                                                                                                22,528 quarantined.
+                                                                                                                Includes 22 SQL queries
+                                                                                                                and a three-page Power
+                                                                                                                BI report. Ridge
+                                                                                                                forecasting achieved
+                                                                                                                8.1% lower holdout MAE
+                                                                                                                than a same-weekday
+                                                                                                                baseline over 142 days.
+
+  [NYC Taxi Pulse](https://github.com/didar-ali-deed/nyc-taxi-pulse)                    Python, SQLite, SQL,    Analysis of one million
+                                                                                        Streamlit, Power BI     validated NYC TLC
+                                                                                                                Yellow Taxi trips from
+                                                                                                                January--February 2023.
+                                                                                                                The project identifies
+                                                                                                                18:00 as the peak hour
+                                                                                                                (71,329 trips) and JFK
+                                                                                                                as the leading pickup
+                                                                                                                location (49,673).
+
+  [NovaCart E-Commerce                                                                  Pandas, SQLite, Power   Cleaned six raw CSV
+  Analytics](https://github.com/didar-ali-deed/novacart-ecommerce-analytics)            BI, DAX                 tables, developed 25
+                                                                                                                SQL queries, and built
+                                                                                                                a four-page dashboard.
+                                                                                                                **The project uses a
+                                                                                                                synthetic dataset.**
+
+  [Customer Complaint                                                                   Python, SQLite, SQL,    Ingests and analyzes
+  Intelligence](https://github.com/didar-ali-deed/customer-complaint-intelligence)      NLP, Power BI           approximately 18.1
+                                                                                                                million CFPB complaint
+                                                                                                                records using chunked
+                                                                                                                processing, analytical
+                                                                                                                SQL, narrative NLP, and
+                                                                                                                Power BI exports.
+  -------------------------------------------------------------------------------------------------------------------------------------
 
 ### Data Engineering and Automation
 
-| Project | Stack | Summary |
-|:---|:---|:---|
-| **Multi-Source Job Data Scraper** ([Portfolio](https://didar-ali.vercel.app/#projects)) | Python, Playwright | Collects job listings from several sources, deduplicates repeated records, and structures them into a consistent dataset for analysis. |
+  --------------------------------------------------------------------------------------------------
+  Project                                            Technology              Overview
+  -------------------------------------------------- ----------------------- -----------------------
+  [Multi-Source Job Data                             Python, Playwright      Collects job listings
+  Scraper](https://didar-ali.vercel.app/#projects)                           from multiple sources,
+                                                                             removes duplicate
+                                                                             records, and organizes
+                                                                             the results into a
+                                                                             consistent dataset for
+                                                                             analysis.
+
+  --------------------------------------------------------------------------------------------------
 
 ### Computer Systems and Low-Level Programming
 
-| Project | Stack | Summary |
-|:---|:---|:---|
-| **[Linux System Monitor](https://github.com/didar-ali-deed/linux-resource-monitor)** | C, ncurses, `/proc` | Terminal monitor tracking CPU, memory, and processes, backed by automated tests. |
-| **[Virtual File System](https://github.com/didar-ali-deed/virtual-file-system)** | C | In-memory Unix-like file system with directories, permissions, symlinks, file I/O, and state persistence. |
+  --------------------------------------------------------------------------------------------------------------------
+  Project                                                              Technology              Overview
+  -------------------------------------------------------------------- ----------------------- -----------------------
+  [Linux System                                                        C, ncurses, `/proc`     Terminal-based system
+  Monitor](https://github.com/didar-ali-deed/linux-resource-monitor)                           monitor for CPU,
+                                                                                               memory, and process
+                                                                                               activity, supported by
+                                                                                               automated tests.
 
-**More:** [View all repositories](https://github.com/didar-ali-deed?tab=repositories)
+  [Virtual File                                                        C                       In-memory Unix-like
+  System](https://github.com/didar-ali-deed/virtual-file-system)                               file-system
+                                                                                               implementation with
+                                                                                               directories,
+                                                                                               permissions, symbolic
+                                                                                               links, file I/O, and
+                                                                                               state persistence.
+  --------------------------------------------------------------------------------------------------------------------
 
----
+**[Explore all repositories
+→](https://github.com/didar-ali-deed?tab=repositories)**
 
-## Publication, Education and Credentials
+------------------------------------------------------------------------
 
-- **Publication:** Didar Ali *et al.*, [Vocal Sentiments: Transformer Based Speech Emotion Recognition](https://doi.org/10.21015/vtse.v13i3.2174), *VFAST Transactions on Software Engineering*, Vol. 13, No. 3, pp. 187–197 (2025).
-- **Education:** B.Sc. in Computer Systems Engineering, University of Engineering and Technology (UET), Peshawar (2021–2025).
-- **Certifications:** Google Data Analytics Professional Certificate, Google Cybersecurity Professional Certificate, NAVTTC Artificial Intelligence (PMYSDP Batch II, UET Peshawar, 2025).
+## Publication
 
----
+**Didar Ali et al.** --- *Vocal Sentiments: Transformer Based Speech
+Emotion Recognition*\
+[Read the paper (DOI)](https://doi.org/10.21015/vtse.v13i3.2174) ·
+*VFAST Transactions on Software Engineering*, Volume 13, Issue 3, pages
+187--197 (2025).
+
+------------------------------------------------------------------------
+
+## Education and Certifications
+
+-   **B.Sc. Computer Systems Engineering** --- University of Engineering
+    and Technology (UET), Peshawar · 2021--2025
+-   **Google Data Analytics Professional Certificate**
+-   **Google Cybersecurity Professional Certificate**
+-   **NAVTTC Artificial Intelligence** --- PMYSDP Batch II, UET Peshawar
+    · 2025
+
+------------------------------------------------------------------------
 
 ## GitHub Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=didar-ali-deed&show_icons=true&bg_color=0A0A0A&title_color=FF8A00&icon_color=FF8A00&text_color=C4C4C4&border_color=333333" />
-    <img src="https://github-readme-stats.vercel.app/api?username=didar-ali-deed&show_icons=true&bg_color=F5F5F5&title_color=B45309&icon_color=B45309&text_color=404040&border_color=E0E0E0" height="170" alt="GitHub statistics for didar-ali-deed" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=didar-ali-deed&layout=compact&bg_color=0A0A0A&title_color=FF8A00&text_color=C4C4C4&border_color=333333" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didar-ali-deed&layout=compact&bg_color=F5F5F5&title_color=B45309&text_color=404040&border_color=E0E0E0" height="170" alt="Top programming languages on GitHub" />
-  </picture>
-</p>
+::: {align="center"}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=didar-ali-deed&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didar-ali-deed&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages" />`{=html}
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=didar-ali-deed&background=0A0A0A&border=333333&stroke=333333&ring=FF8A00&fire=FF8A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8A00&sideLabels=A3A3A3&dates=A3A3A3" />
-    <img src="https://streak-stats.demolab.com?user=didar-ali-deed&background=F5F5F5&border=E0E0E0&stroke=E0E0E0&ring=B45309&fire=B45309&currStreakNum=0A0A0A&sideNums=0A0A0A&currStreakLabel=B45309&sideLabels=595959&dates=595959" width="520" alt="GitHub contribution streak" />
-  </picture>
-</p>
+`<img width="520" src="https://streak-stats.demolab.com?user=didar-ali-deed&hide_border=true&theme=transparent" alt="GitHub contribution streak" />`{=html}
 
+```{=html}
 <details>
-  <summary><strong>Activity graph and contribution snake</strong></summary>
-
-  <br />
-
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=didar-ali-deed&bg_color=0A0A0A&color=C4C4C4&line=FF8A00&point=FFFFFF&area_color=FF8A00&title_color=FF8A00&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=didar-ali-deed&bg_color=F5F5F5&color=404040&line=B45309&point=0A0A0A&area_color=B45309&title_color=B45309&area=true&hide_border=true&custom_title=Contribution%20Activity" width="720" alt="GitHub contribution activity graph" />
-    </picture>
- <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=didar-ali-deed&bg_color=0A0A0A&color=C4C4C4&line=FF8A00&point=FFFFFF&area_color=FF8A00&title_color=FF8A00&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-    <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=didar-ali-deed&bg_color=F5F5F5&color=404040&line=B45309&point=0A0A0A&area_color=B45309&title_color=B45309&area=true&hide_border=true&custom_title=Contribution%20Activity" width="720" alt="GitHub contribution activity graph" />
-  </picture>
-</p>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}Contribution activity graph`</strong>`{=html}
+```{=html}
+</summary>
+```
+`<br />`{=html}
+`<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=didar-ali-deed&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" />`{=html}
+```{=html}
 </details>
+```
+:::
 
----
+------------------------------------------------------------------------
 
-<p align="center">
-  Open to roles and collaborations in <strong>AI/ML Engineering</strong>, <strong>Data Analytics and Engineering</strong>, and <strong>Computer Systems</strong>.
-</p>
+::: {align="center"}
+### Let's Connect
 
-<p align="center">
-  <a href="mailto:didarali1129@gmail.com">Email</a> |
-  <a href="https://didar-ali.vercel.app">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/didar-ali-deed">LinkedIn</a> |
-  <a href="https://github.com/didar-ali-deed">GitHub</a>
-</p>
+Open to opportunities and collaborations in **AI/ML Engineering**,
+**Data Analytics & Engineering**, and **Computer Systems**.
+
+[Email](mailto:didarali1129@gmail.com) ·
+[Portfolio](https://didar-ali.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/didar-ali-deed) ·
+[GitHub](https://github.com/didar-ali-deed)
+:::
