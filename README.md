@@ -1,31 +1,29 @@
-# Didar Ali
+<div align="center">
 
-<p align="center">
-  <strong>AI Engineer | Machine Learning Engineer | Data Engineer | Computer Systems Engineer</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF8A00,100:B45309&text=Didar%20Ali&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20%7C%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Didar Ali banner" />
 
-<p align="center">
-  Building practical AI/ML systems, reproducible data pipelines, and reliable low-level software.
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF8A00&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+ML+Engineer;Data+Engineer+%7C+Computer+Systems+Engineer;Building+practical+AI%2FML+systems+and+reproducible+pipelines" alt="Typing animation" />
+</a>
 
-<p align="center">
-  <a href="https://didar-ali.vercel.app"><strong>Portfolio</strong></a> |
-  <a href="https://www.linkedin.com/in/didar-ali-deed"><strong>LinkedIn</strong></a> |
-  <a href="https://github.com/didar-ali-deed?tab=repositories"><strong>Repositories</strong></a> |
-  <a href="mailto:didarali1129@gmail.com"><strong>Email</strong></a>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-505050?style=flat-square&labelColor=191919" alt="Location: Rawalpindi, Pakistan" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Relocation-FF8A00?style=flat-square&labelColor=191919" alt="Open to roles and relocation" />
-  <a href="https://doi.org/10.21015/vtse.v13i3.2174">
-    <img src="https://img.shields.io/badge/Peer--Reviewed%20Paper-VFAST%202025-E87500?style=flat-square&labelColor=191919" alt="Peer-reviewed paper, VFAST 2025" />
-  </a>
-</p>
+<a href="https://didar-ali.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF8A00?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/didar-ali-deed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/didar-ali-deed?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="mailto:didarali1129@gmail.com"><img src="https://img.shields.io/badge/Email-B45309?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-505050?style=flat-square&labelColor=191919" alt="Location: Rawalpindi, Pakistan" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Relocation-FF8A00?style=flat-square&labelColor=191919" alt="Open to roles and relocation" />
+<a href="https://doi.org/10.21015/vtse.v13i3.2174"><img src="https://img.shields.io/badge/Peer--Reviewed%20Paper-VFAST%202025-E87500?style=flat-square&labelColor=191919" alt="Peer-reviewed paper, VFAST 2025" /></a>
+
+</div>
 
 ---
 
-## About
+## 👋 About
 
 I am a **Computer Systems Engineering graduate from UET Peshawar** (2021–2025), working across **applied AI/ML, data analytics, and computer systems**. I take problems from framing and data engineering through reproducible modeling and clear evaluation to working software.
 
@@ -36,9 +34,17 @@ I am a **Computer Systems Engineering graduate from UET Peshawar** (2021–2025)
 
 **Focus areas:** Applied AI, ML Engineering, Data Engineering, Business Intelligence, Linux Systems.
 
+<div align="center">
+
+| 🎓 Education | 📄 Publication | 🧠 Focus | 📍 Based in |
+|:---:|:---:|:---:|:---:|
+| B.Sc. Computer Systems Engineering, UET Peshawar | Speech emotion recognition, VFAST 2025 | Applied AI, Data Engineering, Linux Systems | Rawalpindi, Pakistan |
+
+</div>
+
 ---
 
-## Experience
+## 💼 Experience
 
 **AI Engineer I, Xflow Research Inc., Islamabad**
 *February 2026 – May 2026*
@@ -50,7 +56,7 @@ I am a **Computer Systems Engineering graduate from UET Peshawar** (2021–2025)
 
 ---
 
-## Technical Stack
+## 🛠️ Technical Stack
 
 | AI and Machine Learning | Data Engineering and Analytics | Backend and DevOps | Systems |
 |:---|:---|:---|:---|
@@ -60,6 +66,19 @@ I am a **Computer Systems Engineering graduate from UET Peshawar** (2021–2025)
 | Training, evaluation, error analysis | Power BI, DAX, Power Query | Testing | `/proc`, correctness testing |
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C and C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,pytorch,tensorflow,sklearn,fastapi,postgres,sqlite,docker,git,github&perline=7" width="560" alt="Core technology stack" />
   </a>
@@ -67,7 +86,7 @@ I am a **Computer Systems Engineering graduate from UET Peshawar** (2021–2025)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 Selected projects across AI/ML, analytics, data engineering, and systems. Each repository documents its setup, methodology, results, and limitations. Click a preview to open the repository.
 
@@ -143,7 +162,7 @@ Selected projects across AI/ML, analytics, data engineering, and systems. Each r
   </tr>
 </table>
 
-### Artificial Intelligence and Machine Learning
+### 🤖 Artificial Intelligence and Machine Learning
 
 | Project | Stack | Summary and reported results |
 |:---|:---|:---|
@@ -154,7 +173,7 @@ Selected projects across AI/ML, analytics, data engineering, and systems. Each r
 | **[AI Health Super App](https://github.com/didar-ali-deed/health-ai-super-app)** ([Live Demo](https://health-ai-super-app-deed.streamlit.app)) | XGBoost, TensorFlow, Keras, Streamlit, SQLite | Three model pathways with login and prediction history: diabetes (~88%), Parkinson's screening (~91%), and pneumonia X-rays (~92%). A screening demo, not a medical device. |
 | **Face Recognition and Liveness Service** ([Portfolio](https://didar-ali.vercel.app/#projects)) | FastAPI, MTCNN, InceptionResNetV1, OpenCV | Face detection and matching, anti-spoofing, and selfie-to-e-passport portrait comparison via NFC DG2, with 37 documented tests. |
 
-### Data Science, Analytics and Business Intelligence
+### 📈 Data Science, Analytics and Business Intelligence
 
 | Project | Stack | Summary and reported results |
 |:---|:---|:---|
@@ -163,13 +182,13 @@ Selected projects across AI/ML, analytics, data engineering, and systems. Each r
 | **[NovaCart E-Commerce Analytics](https://github.com/didar-ali-deed/novacart-ecommerce-analytics)** | Pandas, SQLite, Power BI, DAX | Cleaned six raw CSV tables, wrote **25** SQL queries, and built a 4-page dashboard. Figures come from a synthetic dataset. |
 | **[Customer Complaint Intelligence](https://github.com/didar-ali-deed/customer-complaint-intelligence)** | Python, SQLite, SQL, NLP, Power BI | Chunked ingestion and analysis of approximately **18.1M** CFPB complaint records with analytical SQL, narrative NLP, and Power BI exports. |
 
-### Data Engineering and Automation
+### ⚙️ Data Engineering and Automation
 
 | Project | Stack | Summary |
 |:---|:---|:---|
 | **Multi-Source Job Data Scraper** ([Portfolio](https://didar-ali.vercel.app/#projects)) | Python, Playwright | Collects job listings from several sources, deduplicates repeated records, and structures them into a consistent dataset for analysis. |
 
-### Computer Systems and Low-Level Programming
+### 🐧 Computer Systems and Low-Level Programming
 
 | Project | Stack | Summary |
 |:---|:---|:---|
@@ -180,7 +199,7 @@ Selected projects across AI/ML, analytics, data engineering, and systems. Each r
 
 ---
 
-## Publication, Education and Credentials
+## 🎓 Publication, Education and Credentials
 
 - **Publication:** Didar Ali *et al.*, [Vocal Sentiments: Transformer Based Speech Emotion Recognition](https://doi.org/10.21015/vtse.v13i3.2174), *VFAST Transactions on Software Engineering*, Vol. 13, No. 3, pp. 187–197 (2025).
 - **Education:** B.Sc. in Computer Systems Engineering, University of Engineering and Technology (UET), Peshawar (2021–2025).
@@ -188,7 +207,7 @@ Selected projects across AI/ML, analytics, data engineering, and systems. Each r
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <picture>
@@ -215,8 +234,8 @@ Selected projects across AI/ML, analytics, data engineering, and systems. Each r
 
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=didar-ali-deed&bg_color=0A0A0A&color=C4C4C4&line=FF8A00&point=FFFFFF&area_color=FF8A00&title_color=FF8A00&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=didar-ali-deed&bg_color=F5F5F5&color=404040&line=B45309&point=0A0A0A&area_color=B45309&title_color=B45309&area=true&hide_border=true&custom_title=Contribution%20Activity" width="720" alt="GitHub contribution activity graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=didar-ali-deed&bg_color=0A0A0A&color=C4C4C4&line=FF8A00&point=FFFFFF&area_color=FF8A00&title_color=FF8A00&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+      <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=didar-ali-deed&bg_color=F5F5F5&color=404040&line=B45309&point=0A0A0A&area_color=B45309&title_color=B45309&area=true&hide_border=true&custom_title=Contribution%20Activity" width="720" alt="GitHub contribution activity graph" />
     </picture>
   </p>
 </details>
@@ -233,3 +252,5 @@ Selected projects across AI/ML, analytics, data engineering, and systems. Each r
   <a href="https://www.linkedin.com/in/didar-ali-deed">LinkedIn</a> |
   <a href="https://github.com/didar-ali-deed">GitHub</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:B45309,100:FF8A00&section=footer" width="100%" alt="" />
