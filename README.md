@@ -218,15 +218,12 @@ Nine selected projects across AI/ML, analytics, and data engineering. Each repos
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=didar-ali-deed&bg_color=0A0A0A&color=C4C4C4&line=FF8A00&point=FFFFFF&area_color=FF8A00&title_color=FF8A00&area=true&hide_border=true&custom_title=Contribution%20Activity" />
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=didar-ali-deed&bg_color=F5F5F5&color=404040&line=B45309&point=0A0A0A&area_color=B45309&title_color=B45309&area=true&hide_border=true&custom_title=Contribution%20Activity" width="720" alt="GitHub contribution activity graph" />
     </picture>
-  </p>
-
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didar-ali-deed/didar-ali-deed/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didar-ali-deed/didar-ali-deed/output/github-contribution-grid-snake.svg" />
-      <img src="https://raw.githubusercontent.com/didar-ali-deed/didar-ali-deed/output/github-contribution-grid-snake.svg" width="720" alt="GitHub contribution snake animation" />
-    </picture>
-  </p>
+ <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=didar-ali-deed&bg_color=0A0A0A&color=C4C4C4&line=FF8A00&point=FFFFFF&area_color=FF8A00&title_color=FF8A00&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+    <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=didar-ali-deed&bg_color=F5F5F5&color=404040&line=B45309&point=0A0A0A&area_color=B45309&title_color=B45309&area=true&hide_border=true&custom_title=Contribution%20Activity" width="720" alt="GitHub contribution activity graph" />
+  </picture>
+</p>
 </details>
 
 ---
